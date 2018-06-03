@@ -6,7 +6,6 @@ Spring配置：https://docs.spring.io/spring/docs/
 pdf下载：https://docs.spring.io/spring/docs/4.1.7.RELEASE/spring-framework-reference/pdf/spring-framework-reference.pdf
 Mybaits配置：http://www.mybatis.org/mybatis-3/zh/index.html
 
-
 mvn archetype:generate -DgroupId=wmz -DartifactId=seckill -DarchetypeArtifactId=maven-archetype-webapp
 
 Mybits特点：
